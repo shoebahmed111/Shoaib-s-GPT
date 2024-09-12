@@ -12,7 +12,7 @@ Shoaib GPT is an advanced AI-powered chatbot that allows users to interact using
 # How to Install
 
 # 1. Clone the repository:
-git clone https://github.com/your-username/shoaib-gpt.git
+git clone https://github.com/shoebahmed111/Shoaib-s-GPT.git
 cd shoaib-gpt
 
 # 2. Install the required packages:
